@@ -1,0 +1,7 @@
+{
+  "name": "TAJAWAL - تجوّل",
+  "description": "A dual-interface application: A mobile guide for Arabic tourists in Baku and a merchant dashboard for offer management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
